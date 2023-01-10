@@ -32,7 +32,7 @@ def save_Nasdaq100_tickers():
 
     return tickers
 
-#save_Nasdaq100_tickers()
+##save_Nasdaq100_tickers()
 
 def get_data_from_yahoo(reload_Nasdaq100=False):
 
